@@ -1,11 +1,5 @@
 # coding=utf-8
 
-"""
-Image_Algorithm_Toolbox
-Resize pic to defined size.
-__author__ = 'JNingWei'
-"""
-
 import os
 import cv2
 
